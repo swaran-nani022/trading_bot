@@ -284,45 +284,31 @@ LIMIT Response -> {...}
 
 ### Project Structure
 
-```markdown
-!(screenshots/project_structure.png)
-```
+![Project Structure](screenshots/project_structure.png)
 
 ### MARKET BUY Order
 
-```markdown
-![Market Buy](screenshots/market_buy.png)
-```
+![Market Buy](screenshots/markey_buy.png)
 
 ### MARKET SELL Order
 
-```markdown
 ![Market Sell](screenshots/market_sell.png)
-```
 
 ### LIMIT BUY Order
 
-```markdown
 ![Limit Buy](screenshots/limit_buy.png)
-```
 
 ### LIMIT SELL Order
 
-```markdown
 ![Limit Sell](screenshots/limit_sell.png)
-```
 
 ### Validation Error Example
 
-```markdown
 ![Validation Error](screenshots/validation_error.png)
-```
 
 ### Trading Log File
 
-```markdown
 ![Trading Log](screenshots/log_file.png)
-```
 
 ---
 
