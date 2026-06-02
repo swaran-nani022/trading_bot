@@ -285,7 +285,7 @@ LIMIT Response -> {...}
 ### Project Structure
 
 ```markdown
-![Project Structure](screenshots/project_structure.png)
+!(screenshots/project_structure.png)
 ```
 
 ### MARKET BUY Order
